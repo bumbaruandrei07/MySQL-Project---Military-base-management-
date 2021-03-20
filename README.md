@@ -1,3 +1,5 @@
-# Evidență-unitate-militară
+# Military base management
 
-Proiectul are ca scop evidența unei unități militare (tabele principale: soldați. pluton, unitate militară, arme) 
+- The purpose of the project is to manage and optimize the operations that take place within a military unit;
+- Main tables: soldiers,  platoon, military unit, weapons;
+- Developed in MySQL Workbench
